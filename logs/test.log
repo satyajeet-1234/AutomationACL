@@ -1,0 +1,316 @@
+2025-02-19 00:44:02 - Test Started: testInvalidLogin
+2025-02-19 00:44:05 - ✅ Test Passed: testInvalidLogin
+2025-02-19 00:44:10 - Test Started: testEmptyCredentials
+2025-02-19 00:44:13 - ✅ Test Passed: testEmptyCredentials
+2025-02-19 00:44:14 - === Test Suite Finished: Default test ===
+2025-02-19 00:47:30 - === Test Suite Started: Default test ===
+2025-02-19 00:47:39 - Test Started: testValidLogin
+2025-02-19 00:47:43 - ✅ Test Passed: testValidLogin
+2025-02-19 00:47:49 - Test Started: testInvalidLogin
+2025-02-19 00:47:52 - ✅ Test Passed: testInvalidLogin
+2025-02-19 00:47:58 - Test Started: testEmptyCredentials
+2025-02-19 00:48:00 - ✅ Test Passed: testEmptyCredentials
+2025-02-19 00:48:01 - === Test Suite Finished: Default test ===
+2025-02-19 00:49:21 - === Test Suite Started: Default test ===
+2025-02-19 00:49:29 - Test Started: testValidLogin
+2025-02-19 00:49:32 - ✅ Test Passed: testValidLogin
+2025-02-19 00:49:38 - Test Started: testInvalidLogin
+2025-02-19 00:49:41 - ✅ Test Passed: testInvalidLogin
+2025-02-19 00:49:47 - Test Started: testEmptyCredentials
+2025-02-19 00:49:49 - ✅ Test Passed: testEmptyCredentials
+2025-02-19 00:49:50 - === Test Suite Finished: Default test ===
+2025-02-19 07:25:55 - === Test Suite Started: Default test ===
+2025-02-19 07:26:12 - Test Started: testValidLogin
+2025-02-19 07:26:21 - ✅ Test Passed: testValidLogin
+2025-02-19 07:26:30 - Test Started: testInvalidLogin
+2025-02-19 07:26:35 - ✅ Test Passed: testInvalidLogin
+2025-02-19 07:26:42 - Test Started: testEmptyCredentials
+2025-02-19 07:26:48 - ✅ Test Passed: testEmptyCredentials
+2025-02-19 07:26:48 - === Test Suite Finished: Default test ===
+2025-02-19 11:05:48 - === Test Suite Started: Default test ===
+2025-02-19 11:06:04 - Test Started: testValidLogin
+2025-02-19 11:06:11 - ✅ Test Passed: testValidLogin
+2025-02-19 11:06:11 - ❌ Test Failed: testValidLogin
+2025-02-19 11:06:11 - Failure Reason: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "ts" is null
+2025-02-19 11:06:11 - === Test Suite Finished: Default test ===
+2025-02-19 11:31:30 - === Test Suite Started: Default test ===
+2025-02-19 11:31:43 - Test Started: testValidLogin
+2025-02-19 11:31:52 - ✅ Test Passed: testValidLogin
+2025-02-19 11:31:57 - Test Started: testInvalidLogin
+2025-02-19 11:32:01 - ✅ Test Passed: testInvalidLogin
+2025-02-19 11:32:07 - Test Started: testEmptyCredentials
+2025-02-19 11:32:10 - ✅ Test Passed: testEmptyCredentials
+2025-02-19 11:32:11 - === Test Suite Finished: Default test ===
+2025-02-19 18:11:45 - === Test Suite Started: Default test ===
+2025-02-19 18:12:03 - Test Started: testValidLogin
+2025-02-19 18:12:11 - ✅ Test Passed: testValidLogin
+2025-02-19 18:12:18 - Test Started: testInvalidLogin
+2025-02-19 18:12:23 - ✅ Test Passed: testInvalidLogin
+2025-02-19 18:12:30 - Test Started: testEmptyCredentials
+2025-02-19 18:12:34 - ✅ Test Passed: testEmptyCredentials
+2025-02-19 18:12:35 - === Test Suite Finished: Default test ===
+2025-02-21 10:46:00 - === Test Suite Started: Default test ===
+2025-02-21 10:46:15 - Test Started: testValidLogin
+2025-02-21 10:46:24 - ✅ Test Passed: testValidLogin
+2025-02-21 10:46:31 - Test Started: testInvalidLogin
+2025-02-21 10:46:36 - ✅ Test Passed: testInvalidLogin
+2025-02-21 10:46:41 - Test Started: testEmptyCredentials
+2025-02-21 10:46:46 - ✅ Test Passed: testEmptyCredentials
+2025-02-21 10:46:46 - === Test Suite Finished: Default test ===
+2025-02-21 13:17:41 - === Test Suite Started: Default test ===
+2025-02-21 13:17:58 - Test Started: testValidLogin
+2025-02-21 13:18:04 - ✅ Test Passed: testValidLogin
+2025-02-21 13:18:12 - Test Started: testInvalidLogin
+2025-02-21 13:18:19 - ✅ Test Passed: testInvalidLogin
+2025-02-21 13:18:28 - Test Started: testEmptyCredentials
+2025-02-21 13:18:36 - ✅ Test Passed: testEmptyCredentials
+2025-02-21 13:18:38 - === Test Suite Finished: Default test ===
+2025-02-21 23:05:55 - === Test Suite Started: Default test ===
+2025-02-21 23:06:09 - Test Started: login
+2025-02-21 23:06:09 - ⚠️ Test Skipped: login
+2025-02-21 23:06:09 - === Test Suite Finished: Default test ===
+2025-02-21 23:29:00 - === Test Suite Started: Default test ===
+2025-02-21 23:29:14 - Test Started: login
+2025-02-21 23:29:14 - ⚠️ Test Skipped: login
+2025-02-21 23:29:14 - === Test Suite Finished: Default test ===
+2025-02-21 23:36:51 - === Test Suite Started: Default test ===
+2025-02-21 23:37:03 - Test Started: login
+2025-02-21 23:37:03 - ⚠️ Test Skipped: login
+2025-02-21 23:37:03 - === Test Suite Finished: Default test ===
+2025-02-21 23:40:07 - === Test Suite Started: Default test ===
+2025-02-21 23:40:20 - Test Started: login
+2025-02-21 23:40:20 - ⚠️ Test Skipped: login
+2025-02-21 23:40:20 - === Test Suite Finished: Default test ===
+2025-02-21 23:47:44 - === Test Suite Started: Default test ===
+2025-02-21 23:47:59 - Test Started: login
+2025-02-21 23:47:59 - ⚠️ Test Skipped: login
+2025-02-21 23:47:59 - === Test Suite Finished: Default test ===
+2025-02-22 00:47:50 - === Test Suite Started: Default test ===
+2025-02-22 00:48:04 - Test Started: login
+2025-02-22 00:48:04 - ⚠️ Test Skipped: login
+2025-02-22 00:48:04 - === Test Suite Finished: Default test ===
+2025-02-22 00:58:54 - === Test Suite Started: Default test ===
+2025-02-22 00:59:06 - Test Started: login
+2025-02-22 00:59:06 - ⚠️ Test Skipped: login
+2025-02-22 00:59:06 - === Test Suite Finished: Default test ===
+2025-02-22 01:06:43 - === Test Suite Started: Default test ===
+2025-02-22 01:06:43 - === Test Suite Started: Default test ===
+2025-02-22 01:07:00 - Test Started: login
+2025-02-22 01:07:00 - ⚠️ Test Skipped: login
+2025-02-22 01:07:00 - === Test Suite Finished: Default test ===
+2025-02-22 01:07:02 - Test Started: login
+2025-02-22 01:07:02 - ⚠️ Test Skipped: login
+2025-02-22 01:07:02 - === Test Suite Finished: Default test ===
+2025-02-22 01:09:46 - === Test Suite Started: Default test ===
+2025-02-22 01:09:56 - Test Started: login
+2025-02-22 01:09:56 - ⚠️ Test Skipped: login
+2025-02-22 01:09:56 - === Test Suite Finished: Default test ===
+2025-02-22 01:40:52 - === Test Suite Started: Default test ===
+2025-02-22 01:41:04 - Test Started: login
+2025-02-22 01:41:04 - ⚠️ Test Skipped: login
+2025-02-22 01:41:04 - === Test Suite Finished: Default test ===
+2025-02-22 01:50:13 - === Test Suite Started: Default test ===
+2025-02-22 01:50:30 - Test Started: login
+2025-02-22 01:50:30 - ⚠️ Test Skipped: login
+2025-02-22 01:50:30 - === Test Suite Finished: Default test ===
+2025-02-22 01:58:48 - === Test Suite Started: Default test ===
+2025-02-22 02:02:26 - === Test Suite Started: Default test ===
+2025-02-22 02:10:35 - === Test Suite Started: Default test ===
+2025-02-22 02:11:17 - === Test Suite Started: Default test ===
+2025-02-22 02:11:26 - Test Started: login
+2025-02-22 02:11:27 - ❌ Test Failed: login
+2025-02-22 02:11:27 - Failure Reason: 'long org.opencv.imgcodecs.Imgcodecs.imread_1(java.lang.String)'
+2025-02-22 02:11:27 - === Test Suite Finished: Default test ===
+2025-02-22 02:20:07 - === Test Suite Started: Default test ===
+2025-02-22 02:20:20 - Test Started: login
+2025-02-22 02:20:20 - ❌ Test Failed: login
+2025-02-22 02:20:20 - Failure Reason: 'long org.opencv.imgcodecs.Imgcodecs.imread_1(java.lang.String)'
+2025-02-22 02:20:20 - === Test Suite Finished: Default test ===
+2025-02-22 02:24:37 - === Test Suite Started: Default test ===
+2025-02-22 02:24:50 - Test Started: login
+2025-02-22 02:24:50 - ⚠️ Test Skipped: login
+2025-02-22 02:24:50 - === Test Suite Finished: Default test ===
+2025-02-22 02:26:28 - === Test Suite Started: Default test ===
+2025-02-22 02:26:40 - Test Started: login
+2025-02-22 02:26:40 - ⚠️ Test Skipped: login
+2025-02-22 02:26:40 - === Test Suite Finished: Default test ===
+2025-02-22 02:27:26 - === Test Suite Started: Default test ===
+2025-02-22 02:27:35 - Test Started: login
+2025-02-22 02:27:35 - ⚠️ Test Skipped: login
+2025-02-22 02:27:35 - === Test Suite Finished: Default test ===
+2025-02-22 02:33:44 - === Test Suite Started: Default test ===
+2025-02-22 02:33:56 - Test Started: login
+2025-02-22 02:33:57 - ❌ Test Failed: login
+2025-02-22 02:33:57 - Failure Reason: 'long org.opencv.imgcodecs.Imgcodecs.imread_1(java.lang.String)'
+2025-02-22 02:33:57 - === Test Suite Finished: Default test ===
+2025-02-22 02:35:48 - === Test Suite Started: Default test ===
+2025-02-22 02:36:00 - Test Started: login
+2025-02-22 02:36:00 - ❌ Test Failed: login
+2025-02-22 02:36:00 - Failure Reason: 'long org.opencv.imgcodecs.Imgcodecs.imread_1(java.lang.String)'
+2025-02-22 02:36:00 - === Test Suite Finished: Default test ===
+2025-02-22 02:42:28 - === Test Suite Started: Default test ===
+2025-02-22 02:42:41 - Test Started: login
+2025-02-22 02:42:42 - ❌ Test Failed: login
+2025-02-22 02:42:42 - Failure Reason: 'long org.opencv.imgcodecs.Imgcodecs.imread_1(java.lang.String)'
+2025-02-22 02:42:43 - === Test Suite Finished: Default test ===
+2025-02-22 10:55:03 - === Test Suite Started: Default test ===
+2025-02-22 10:55:22 - Test Started: login
+2025-02-22 10:55:22 - ❌ Test Failed: login
+2025-02-22 10:55:22 - Failure Reason: 'long org.opencv.imgcodecs.Imgcodecs.imread_1(java.lang.String)'
+2025-02-22 10:55:22 - === Test Suite Finished: Default test ===
+2025-02-22 11:04:02 - === Test Suite Started: Default test ===
+2025-02-22 11:04:12 - Test Started: login
+2025-02-22 11:04:12 - ❌ Test Failed: login
+2025-02-22 11:04:12 - Failure Reason: 'long org.opencv.imgcodecs.Imgcodecs.imread_1(java.lang.String)'
+2025-02-22 11:04:12 - === Test Suite Finished: Default test ===
+2025-02-22 11:15:44 - === Test Suite Started: Default test ===
+2025-02-22 11:15:55 - Test Started: login
+2025-02-22 11:15:55 - ❌ Test Failed: login
+2025-02-22 11:15:55 - Failure Reason: 'long org.opencv.imgcodecs.Imgcodecs.imread_1(java.lang.String)'
+2025-02-22 11:15:56 - === Test Suite Finished: Default test ===
+2025-02-22 17:56:34 - === Test Suite Started: Default test ===
+2025-02-22 17:56:47 - Test Started: login
+2025-02-22 17:56:47 - ❌ Test Failed: login
+2025-02-22 17:56:47 - Failure Reason: 'long org.opencv.imgcodecs.Imgcodecs.imread_1(java.lang.String)'
+2025-02-22 17:56:47 - === Test Suite Finished: Default test ===
+2025-02-23 08:39:24 - === Test Suite Started: Default test ===
+2025-02-23 08:39:37 - Test Started: login
+2025-02-23 08:55:08 - ❌ Test Failed: login
+2025-02-23 08:55:08 - Failure Reason: 'long org.opencv.imgcodecs.Imgcodecs.imread_1(java.lang.String)'
+2025-02-23 08:55:09 - === Test Suite Finished: Default test ===
+2025-02-23 08:55:41 - === Test Suite Started: Default test ===
+2025-02-23 08:55:51 - Test Started: login
+2025-02-23 08:56:51 - ❌ Test Failed: login
+2025-02-23 08:56:51 - Failure Reason: 'long org.opencv.imgcodecs.Imgcodecs.imread_1(java.lang.String)'
+2025-02-23 08:56:52 - === Test Suite Finished: Default test ===
+2025-02-23 09:09:26 - === Test Suite Started: Default test ===
+2025-02-23 09:09:37 - Test Started: login
+2025-02-23 09:09:37 - ❌ Test Failed: login
+2025-02-23 09:09:37 - Failure Reason: 'long org.opencv.imgcodecs.Imgcodecs.imread_1(java.lang.String)'
+2025-02-23 09:09:37 - === Test Suite Finished: Default test ===
+2025-02-23 09:15:12 - === Test Suite Started: Default test ===
+2025-02-23 09:15:21 - Test Started: login
+2025-02-23 09:15:21 - ❌ Test Failed: login
+2025-02-23 09:15:21 - Failure Reason: 'long org.opencv.imgcodecs.Imgcodecs.imread_1(java.lang.String)'
+2025-02-23 09:15:21 - === Test Suite Finished: Default test ===
+2025-02-23 09:19:46 - === Test Suite Started: Default test ===
+2025-02-23 09:19:55 - Test Started: login
+2025-02-23 09:19:55 - ❌ Test Failed: login
+2025-02-23 09:19:55 - Failure Reason: 'long org.opencv.imgcodecs.Imgcodecs.imread_1(java.lang.String)'
+2025-02-23 09:19:55 - === Test Suite Finished: Default test ===
+2025-02-23 09:24:32 - === Test Suite Started: Default test ===
+2025-02-23 09:24:41 - Test Started: login
+2025-02-23 09:24:42 - ❌ Test Failed: login
+2025-02-23 09:24:42 - Failure Reason: 'long org.opencv.imgcodecs.Imgcodecs.imread_1(java.lang.String)'
+2025-02-23 09:24:42 - === Test Suite Finished: Default test ===
+2025-02-23 09:27:24 - === Test Suite Started: Default test ===
+2025-02-23 09:27:35 - Test Started: login
+2025-02-23 09:27:40 - ❌ Test Failed: login
+2025-02-23 09:27:40 - Failure Reason: 'long org.opencv.imgcodecs.Imgcodecs.imread_1(java.lang.String)'
+2025-02-23 09:27:40 - === Test Suite Finished: Default test ===
+2025-02-23 09:29:50 - === Test Suite Started: Default test ===
+2025-02-23 09:30:03 - Test Started: login
+2025-02-23 09:33:37 - ❌ Test Failed: login
+2025-02-23 09:33:37 - Failure Reason: 'long org.opencv.imgcodecs.Imgcodecs.imread_1(java.lang.String)'
+2025-02-23 09:33:38 - === Test Suite Finished: Default test ===
+2025-02-23 10:02:38 - === Test Suite Started: Default test ===
+2025-02-23 10:02:56 - Test Started: login
+2025-02-23 10:03:01 - ❌ Test Failed: login
+2025-02-23 10:03:01 - Failure Reason: 'long org.opencv.core.Mat.n_Mat()'
+2025-02-23 10:03:02 - === Test Suite Finished: Default test ===
+2025-02-23 10:10:40 - === Test Suite Started: Default test ===
+2025-02-23 10:10:55 - Test Started: login
+2025-02-23 10:11:01 - ❌ Test Failed: login
+2025-02-23 10:11:01 - Failure Reason: 'long org.opencv.core.Mat.n_Mat()'
+2025-02-23 10:11:01 - === Test Suite Finished: Default test ===
+2025-02-23 10:14:48 - === Test Suite Started: Default test ===
+2025-02-23 10:16:29 - Test Started: login
+2025-02-23 10:18:19 - ❌ Test Failed: login
+2025-02-23 10:18:19 - Failure Reason: AI fallback failed for: Login Button
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: driver.version: unknown
+2025-02-23 10:18:19 - === Test Suite Finished: Default test ===
+2025-02-23 10:18:54 - === Test Suite Started: Default test ===
+2025-02-23 10:19:03 - Test Started: login
+2025-02-23 10:19:03 - ❌ Test Failed: login
+2025-02-23 10:19:03 - Failure Reason: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=133.0.6943.127)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d2ca579183f7b0263d3302eeecedeaf5, findElement {value=//span[contains(@id,'satya')]//bdi[contains(text(),'Login')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 133.0.6943.127, chrome: {chromedriverVersion: 133.0.6943.126 (cffa127ce7b..., userDataDir: C:\Users\hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58658}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58658/devtoo..., se:cdpVersion: 133.0.6943.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d2ca579183f7b0263d3302eeecedeaf5
+2025-02-23 10:19:04 - ❌ Test Failed: login
+2025-02-23 10:19:04 - Failure Reason: invalid session id
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d2ca579183f7b0263d3302eeecedeaf5, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 133.0.6943.127, chrome: {chromedriverVersion: 133.0.6943.126 (cffa127ce7b..., userDataDir: C:\Users\hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58658}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58658/devtoo..., se:cdpVersion: 133.0.6943.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d2ca579183f7b0263d3302eeecedeaf5
+2025-02-23 10:19:04 - === Test Suite Finished: Default test ===
+2025-02-23 10:21:05 - === Test Suite Started: Default test ===
+2025-02-23 10:23:09 - Test Started: login
+2025-02-23 10:23:34 - === Test Suite Started: Default test ===
+2025-02-23 10:25:36 - Test Started: login
+2025-02-23 10:27:48 - ❌ Test Failed: login
+2025-02-23 10:27:48 - Failure Reason: AI fallback failed for: Login Button
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: driver.version: unknown
+2025-02-23 10:27:48 - === Test Suite Finished: Default test ===
+2025-02-23 10:32:22 - === Test Suite Started: Default test ===
+2025-02-23 10:32:49 - Test Started: login
+2025-02-23 10:38:45 - ❌ Test Failed: login
+2025-02-23 10:38:45 - Failure Reason: AI fallback failed for: Login Button
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: driver.version: unknown
+2025-02-23 10:38:45 - === Test Suite Finished: Default test ===
+2025-02-23 10:39:01 - === Test Suite Started: Default test ===
+2025-02-23 10:39:29 - Test Started: login
+2025-02-23 10:41:58 - ❌ Test Failed: login
+2025-02-23 10:41:58 - Failure Reason: AI fallback failed for: Login Button
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: driver.version: unknown
+2025-02-23 10:41:58 - === Test Suite Finished: Default test ===
+2025-02-23 10:42:21 - === Test Suite Started: Default test ===
+2025-02-23 10:42:41 - Test Started: login
+2025-02-23 10:47:31 - === Test Suite Started: Default test ===
+2025-02-23 10:48:02 - Test Started: login
+2025-02-23 11:39:22 - === Test Suite Started: Default test ===
+2025-02-23 11:39:36 - Test Started: login
+2025-02-23 11:39:42 - ❌ Test Failed: login
+2025-02-23 11:39:42 - Failure Reason: AI fallback failed for: Login Button
+2025-02-23 11:39:42 - === Test Suite Finished: Default test ===
+2025-02-23 11:42:17 - === Test Suite Started: Default test ===
+2025-02-23 11:42:29 - Test Started: login
+2025-02-23 11:42:35 - ❌ Test Failed: login
+2025-02-23 11:42:35 - Failure Reason: AI fallback failed for: Login Button
+2025-02-23 11:42:35 - === Test Suite Finished: Default test ===
+2025-02-23 11:43:16 - === Test Suite Started: Default test ===
+2025-02-23 11:43:49 - ❌ Test Failed: login
+2025-02-23 11:43:49 - Failure Reason: AI fallback failed for: Login Button
+2025-02-23 11:43:50 - ❌ Test Failed: login
+2025-02-23 11:43:50 - Failure Reason: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=133.0.6943.127)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ce91aa6f55f3e1be7e04f73cc9e62dca, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 133.0.6943.127, chrome: {chromedriverVersion: 133.0.6943.126 (cffa127ce7b..., userDataDir: C:\Users\hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57677}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57677/devtoo..., se:cdpVersion: 133.0.6943.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ce91aa6f55f3e1be7e04f73cc9e62dca
+2025-02-23 11:43:51 - === Test Suite Finished: Default test ===
+2025-02-23 11:48:23 - === Test Suite Started: Default test ===
+2025-02-23 11:48:48 - Test Started: login
+2025-02-23 11:48:48 - ✅ Test Passed: login
+2025-02-23 11:48:49 - === Test Suite Finished: Default test ===

@@ -1,0 +1,5 @@
+[
+  { "testCaseName": "testValidLogin", "username": "satyajeet.buche@acldigital.com", "password": "Satyajeet@12345" },
+  { "testCaseName": "testInvalidLogin", "username": "satyajeet.buche256@acldigital.com", "password": "Satyajeet@12345" },
+  { "testCaseName": "testEmptyCredentials", "username": "", "password": "" }
+]
