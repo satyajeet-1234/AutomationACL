@@ -4,7 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-import com.workforceSchedule.ai.SmartElementFinder;
+import com.workforceScheduler.ai.SmartElementFinder;
 import com.workforceScheduler.utils.ActionUtils;
 import com.workforceScheduler.utils.WebDriverWaits;
 

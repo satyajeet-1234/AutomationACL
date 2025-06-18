@@ -1,8 +1,7 @@
-package com.workforceSchedule.ai;
+package com.workforceScheduler.ai;
 
 import java.io.File;
 import java.io.IOException;
-
 import org.opencv.core.Core;
 import org.opencv.core.Core.MinMaxLocResult;
 import org.opencv.core.Mat;
@@ -12,8 +11,6 @@ import org.opencv.core.CvType;
 import org.opencv.imgcodecs.Imgcodecs;
 import org.opencv.imgproc.Imgproc;
 import org.openqa.selenium.Rectangle;
-import java.io.File;
-import java.io.IOException;
 import java.nio.file.Files;
 import org.opencv.core.Size;
 
