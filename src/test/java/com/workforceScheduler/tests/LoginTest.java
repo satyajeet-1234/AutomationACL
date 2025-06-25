@@ -2,6 +2,7 @@ package com.workforceScheduler.tests;
 
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
+import org.testng.Assert;
 
 import com.workforceScheduler.base.BaseTest;
 import com.workforceScheduler.dataProvider.CustomDataProvider;
@@ -17,36 +18,36 @@ public class LoginTest extends BaseTest {
 	}
     
 	
-	@Test(priority=1, dataProvider = "testLoginData", dataProviderClass = CustomDataProvider.class)
-	public void testValidLogin(String username, String password) {
-		loginPage.enterUsername(username);
-		loginPage.enterPassword(password);
-		loginPage.clickLoginButton();
+        @Test(priority=1, dataProvider = "testLoginData", dataProviderClass = CustomDataProvider.class)
+        public void testValidLogin(String username, String password) {
+                loginPage.enterUsername(username);
+                loginPage.enterPassword(password);
+                loginPage.clickLoginButton();
 
-		// Validate Home Page Loaded (update as per app behavior)
-		//Assert.assertEquals(driver.getTitle(), "Home Page");
-	}
+                // Basic check that login navigates away from the login page
+                Assert.assertFalse(driver.getTitle().toLowerCase().contains("login"), "User should not remain on login page");
+        }
 
 	@Test(priority=2,dataProvider = "testLoginData", dataProviderClass = CustomDataProvider.class)
-	public void testInvalidLogin(String invalidUser, String wrongPassword) {
-		loginPage.enterUsername(invalidUser);
-		loginPage.enterPassword(wrongPassword);
-		loginPage.clickLoginButton();
-		System.out.println(invalidUser);
+        public void testInvalidLogin(String invalidUser, String wrongPassword) {
+                loginPage.enterUsername(invalidUser);
+                loginPage.enterPassword(wrongPassword);
+                loginPage.clickLoginButton();
+                System.out.println(invalidUser);
 
-		// Assert.assertTrue(loginPage.isErrorDisplayed(), "Error message not
-		// displayed.");
-	}
+                // Verify that user stays on login page after invalid credentials
+                Assert.assertTrue(driver.getTitle().toLowerCase().contains("login"), "User should remain on login page");
+        }
 
 	@Test (priority=3,dataProvider = "testLoginData", dataProviderClass = CustomDataProvider.class)
-	public void testEmptyCredentials(String emptyUsername, String emptyPassword) {
-		loginPage.enterUsername(emptyUsername);
-		loginPage.enterPassword(emptyPassword);
-		loginPage.clickLoginButton();
+        public void testEmptyCredentials(String emptyUsername, String emptyPassword) {
+                loginPage.enterUsername(emptyUsername);
+                loginPage.enterPassword(emptyPassword);
+                loginPage.clickLoginButton();
 
-		// Assert.assertTrue(loginPage.isErrorDisplayed(), "Error message not
-		// displayed.");
-	}
+                // Verify that login fails with empty credentials
+                Assert.assertTrue(driver.getTitle().toLowerCase().contains("login"), "User should remain on login page");
+        }
 	
 	/*
 	 * // // @Test // public void testForgotPassword() { // loginPage = new

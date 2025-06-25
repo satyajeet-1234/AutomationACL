@@ -14,22 +14,22 @@ public class ConfigReader {
     static {
         properties = new Properties();
         try {
-            // Path to the config file (relative to the project root)
-            String configFilePath ="F:\\Selenium Java BDD Training Workplace\\AutomationOptimumFramework\\src\\test\\resources\\config.properties";
+            // Path to the config file relative to the project root
+            String configFilePath = System.getProperty("user.dir") + "/src/test/resources/config.properties";
             input = new FileInputStream(configFilePath);
             properties.load(input); // Load the properties from the file
            
         } catch (IOException e) {
             e.printStackTrace();
             throw new RuntimeException("Failed to load config.properties file");
-        }
-        finally {
-        	try {
-				input.close();
-			} catch (IOException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-			}
+        } finally {
+            if (input != null) {
+                try {
+                    input.close();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
         }
     }
 
