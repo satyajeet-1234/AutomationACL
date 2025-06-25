@@ -1,4 +1,4 @@
-package com.workforceSchedule.ai;
+package com.workforceScheduler.ai;
 import java.io.File;
 
 import org.openqa.selenium.By;

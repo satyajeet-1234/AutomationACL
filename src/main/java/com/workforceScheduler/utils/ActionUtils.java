@@ -10,6 +10,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import com.workforceScheduler.utils.CustomException;
 
 public class ActionUtils {
 
@@ -98,10 +99,14 @@ public class ActionUtils {
 		actions.contextClick(element).perform();
 	}
 
-	private WebElement getElement(By locator) {
-		// TODO Auto-generated method stub
-		return null;
-	}
+       private WebElement getElement(By locator) {
+               try {
+                       return wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
+               } catch (Exception e) {
+                       logger.error("Element not found: {}", locator, e);
+                       throw new CustomException("Element not found: " + locator);
+               }
+       }
 
 	/**
 	 * Finds an element using WebDriverWait.
